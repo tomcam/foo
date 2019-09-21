@@ -6,10 +6,6 @@
       {{ content }}
     </section>
     <h2>Variables</h2>
-    site: {{ site }} </br>
-site.time {{ site.time }} </br>
-    thesitename: {{ site.thesitename }} </br>
-  
     <h2>{{ site.posts.size }} Posts</h2>
         {% for post in site.posts %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
