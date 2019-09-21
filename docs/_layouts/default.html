@@ -16,13 +16,13 @@
     </section>
     <h2>Variables</h2>
     site: {{ site }} </br>
-    thesitename: {{ thesitename }} </br>
+    thesitename: {{ site.thesitename }} </br>
   
     <h2>{{ site.posts.size }} Posts</h2>
       <ul>
         {% for post in site.posts %}
           <li>
-            <h2><a href="{{ site }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ site.thesitename }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt }}</p>
           </li>
         {% endfor %}
