@@ -2,7 +2,6 @@
   <body>
     <nav>
       <a href="/">Home</a>
-      <a href="BEATME/">/</a>
     </nav>
     <h1>{{ page.title }}</h1>
     <section>
@@ -13,14 +12,10 @@
     thesitename: {{ site.thesitename }} </br>
   
     <h2>{{ site.posts.size }} Posts</h2>
-      <ul>
         {% for post in site.posts %}
-          <li>
             <h2><a href="\/{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt }}</p>
-          </li>
         {% endfor %}
-      </ul>
  {%- include footer.html -%}  
 </body>
 </html>
