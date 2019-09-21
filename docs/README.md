@@ -1,4 +1,4 @@
-![](globe.jpg)
+![](./assets/img/globe.jpg)
 # Please start here
 
 
