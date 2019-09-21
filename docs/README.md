@@ -10,7 +10,7 @@ View this on [GitHub Pages](https://tomcam.github.io/jekyll-lab/)
   
 | Variable | Value |
 | --- | --- |
-| organization | <p>{{ site.organization }}</p> |
+| organization | {{ site.organization }} |
   
 
 
