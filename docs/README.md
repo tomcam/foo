@@ -3,7 +3,7 @@
 
 This is the root README.md
 
-View this on [GitHub Pages](https://tomcam.github.io/foo/)
+View this on [GitHub Pages](https://tomcam.github.io/jekyll-lab/)
 
 ## Misc
 
