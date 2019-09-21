@@ -1,4 +1,6 @@
+![](globe.jp)
 # Please start here
+
 
 This is the root README.md
 
