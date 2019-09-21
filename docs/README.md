@@ -1,8 +1,9 @@
 ![](./assets/img/globe.jpg)
 # Please start here
 
-
 This is the root README.md
+
+View this on [GitHub Pages](https://tomcam.github.io/foo/)
 
 ## Bug:
 
