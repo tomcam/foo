@@ -3,6 +3,12 @@ layout: post
 title:  "So did I do it?"
 ---
 
-# Is this a Blog post?
+# Blog post meant for Friday September 20
 
-And did I name it right, ending in MARKDOWN?
+I think I finally got the blog post thing right.
+
+Found here:
+
+```
+/docs/_posts/2019-09-20-This-is-friday.md
+```
