@@ -10,7 +10,7 @@ View this on [GitHub Pages](https://tomcam.github.io/foo/)
   
 | Variable | Value |
 | --- | --- |
-| baseurl | {{ site.baseurl }} |
+| organization | <p>{{ site.organization }}</p> |
   
 
 
